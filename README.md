@@ -24,6 +24,7 @@ Number 5
 
 
 Number 6a
+![6a](https://user-images.githubusercontent.com/59035856/73123194-f6320c80-3fbf-11ea-8b5a-dfc3cf764aba.PNG)
 
 
 Number 6b

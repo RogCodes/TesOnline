@@ -1,7 +1,7 @@
 # Arkademy
 This is Repository for Arkademy Bootcamp Batch 14 - 5.
 
-# Tools :
+Tools : 
 Ms. Visual Code
 XAMPP
 Chrome Browser
